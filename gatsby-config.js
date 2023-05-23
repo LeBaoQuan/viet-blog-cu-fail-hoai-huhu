@@ -8,5 +8,6 @@ module.exports = {
       resolve: "gatsby-theme-amaranth",
       options: {},
     },
+    `gatsby-plugin-netlify`,
   ],
 };
